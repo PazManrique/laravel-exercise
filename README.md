@@ -62,3 +62,22 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## GitHub
+git remote add origin https://github.com/PazManrique/laravel-exercise.git
+git branch -M main
+git push -u origin main
+
+## Instructions
+Steps:
+- crear un modelo de tipo : Product
+
+Atributos (como mínimo):
+Nombre del producto
+Breve descripción
+Fecha de caducidad
+
+- Crear una vista en la que se debe listar todos los productos en una tabla
+- Crear una vista para agregar un producto
+- Crear una vista para mostrar el detalle de un producto
+- Implementa las rutas y los métodos en el controlador ProductController
